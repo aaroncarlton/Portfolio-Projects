@@ -1,1 +1,1 @@
-Data Analytics projects
+This repository contains the Jupyter Lab notebook code that corresponds to my Tableau visualizations showcased in my portfolio. Here you’ll find the data analysis and preparation scripts used to create those visualizations.
